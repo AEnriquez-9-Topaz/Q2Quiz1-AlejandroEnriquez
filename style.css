@@ -11,6 +11,15 @@ img {
 	padding: 15px;
 	vertical-align: middle;
 		}
+
+.animate__tada: hover {
+	animate-direction: 2s;
+	display: inline-block;
+	animation: tada;
+	animation-duration: 2s;
+	animation-iteration-count: infinate;
+	
+}
 body {
 	background-image: url(https://th.bing.com/th/id/OIP.mqMC-v693TGHt0ctYNGTYwHaHa?w=720&h=720&rs=1&pid=ImgDetMain);
 	margin: 0%;
