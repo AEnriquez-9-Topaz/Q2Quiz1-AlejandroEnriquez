@@ -14,7 +14,7 @@ img {
 body {
 	background-image: url(https://th.bing.com/th/id/OIP.mqMC-v693TGHt0ctYNGTYwHaHa?w=720&h=720&rs=1&pid=ImgDetMain);
 	margin: 0%;
-	background-size: 100%;
+	background-size: cover;
 
 
 }
